@@ -1,6 +1,6 @@
 # DS path
 
-1. Python Crash Course
+1. Python Crash Course (done 07.02.2021)
 
 https://www.youtube.com/watch?v=JJmcL1N2KQs&ab_channel=TraversyMedia
 
